@@ -1,0 +1,9 @@
+
+body{font-family:Arial;margin:0;background:#f4f4f4;color:#222;}
+.hero{text-align:center;padding:60px 20px;background:#111;color:#fff;}
+.hero-img{width:160px;height:160px;border-radius:50%;object-fit:cover;}
+section{padding:40px 20px;max-width:900px;margin:auto;}
+h2{margin-bottom:15px;}
+.skills span{display:inline-block;background:#222;color:#fff;padding:8px 15px;border-radius:20px;margin:5px;}
+.gallery-img,.gallery-video{width:100%;max-width:800px;border-radius:10px;display:block;margin:auto;}
+footer{text-align:center;padding:20px;background:#111;color:white;margin-top:40px;}
